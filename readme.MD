@@ -1,0 +1,1 @@
+Look in __docs folder, file 'Docker hints.MD', for instructions to to build and run dckerized app
