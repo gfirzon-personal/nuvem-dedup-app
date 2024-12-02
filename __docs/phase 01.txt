@@ -1,0 +1,8 @@
+Given a sample file, do the follow:
+
+Info 
+1. Create a batch ID, for now guid
+2. Orig Record count, assuming csv file contains a header row
+3. Timestamp of pre-analysis
+4. Possibly record id
+
